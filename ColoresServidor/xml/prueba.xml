@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colores>
+  <usuario>
+    <nombre>Santiago</nombre>
+    <color>255,0,55</color>
+    <color>185,125,0</color>
+    <color>230,128,35</color>
+    <color>155,55,155</color>
+  </usuario>
+  <usuario>
+    <nombre>Nelson</nombre>
+    <color>155,110,55</color>
+    <color>145,105,13</color>
+    <color>230,128,35</color>
+    <color>130,45,33</color>
+    <color>44,33,155</color>
+    <color>55,66,1</color>
+    <color>24,23,21</color>
+  </usuario>
+  <usuario>
+    <nombre>Camilo</nombre>
+    <color>55,20,75</color>
+    <color>185,225,70</color>
+    <color>20,200,35</color>
+    <color>55,55,55</color>
+  </usuario>
+  <usuario>
+    <nombre>ChaChaCha</nombre>
+  </usuario>
+</colores>
